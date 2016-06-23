@@ -1,0 +1,24 @@
+{
+  "name": "mparticle-sdk-javascript",
+  "description": "mParticle core Javascript SDK",
+  "main": "mparticle.js",
+  "authors": [
+    "stevepricepw <steve@parentesware.com>"
+  ],
+  "license": "Apache License, Version 2.0",
+  "keywords": [
+    "mParticle",
+    "mobile",
+    "data",
+    "automation",
+    "platform"
+  ],
+  "homepage": "https://github.com/StevePrice/mparticle-sdk-javascript",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
