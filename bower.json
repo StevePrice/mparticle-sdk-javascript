@@ -11,7 +11,8 @@
     "mobile",
     "data",
     "automation",
-    "platform"
+    "platform",
+    "OurPact"
   ],
   "homepage": "https://github.com/StevePrice/mparticle-sdk-javascript",
   "ignore": [
